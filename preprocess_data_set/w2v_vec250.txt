@@ -2,3 +2,4 @@ the file is nearly 6GB
 
 url: https://drive.google.com/drive/folders/1jD38rLvVf4jDOoNGryhX5xWg1p_3vED6?usp=share_link
 
+expected path: "preprocess_data_set\w2v_vec250.csv"
