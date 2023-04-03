@@ -22,6 +22,9 @@ scikit-learn classifier
 - [x] Decision Trees
 - [x] Random Forest
 - [ ] Gradient Boosted Trees (e.g. XGBoost, LightGBM)
-- [x] Support Vector Machines (SVM)
+- [x] Support Vector Machines (SVM - Linear)
+- [ ] Support Vector Machines (SVM - RBF)
+- [ ] Quadratic Discriminant Analysis (QDA)
+- [ ] AdaBoost
 - [ ] K-Nearest Neighbors (KNN)
 - [ ] Neural Networks (e.g. Multi-Layer Perceptron, Convolutional Neural Network)
