@@ -8,11 +8,11 @@ please download some pre-process data from https://drive.google.com/drive/folder
 
 scikit-learn classifier
 
-Logistic Regression
-Naive Bayes (Gaussian, Bernoulli, and Multinomial)
-Decision Trees
-Random Forest
-Gradient Boosted Trees (e.g. XGBoost, LightGBM)
-Support Vector Machines (SVM)
-K-Nearest Neighbors (KNN)
-Neural Networks (e.g. Multi-Layer Perceptron, Convolutional Neural Network)
+- [x] Logistic Regression
+- [ ] Naive Bayes (Gaussian, Bernoulli, and Multinomial)
+- [x] Decision Trees
+- [x] Random Forest
+- [ ] Gradient Boosted Trees (e.g. XGBoost, LightGBM)
+- [x] Support Vector Machines (SVM)
+- [ ] K-Nearest Neighbors (KNN)
+- [ ] Neural Networks (e.g. Multi-Layer Perceptron, Convolutional Neural Network)
