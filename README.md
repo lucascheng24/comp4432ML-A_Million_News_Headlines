@@ -18,10 +18,10 @@ data-preprocess
 scikit-learn classifier
 
 - [x] Logistic Regression
-- [ ] Naive Bayes (Gaussian, Bernoulli, and Multinomial)
+- [x] Naive Bayes (Gaussian, Bernoulli, and Multinomial)
 - [x] Decision Trees
 - [x] Random Forest
-- [ ] Gradient Boosted Trees (e.g. XGBoost, LightGBM)
+- [x] Gradient Boosted Trees (e.g. XGBoost, LightGBM)
 - [x] Support Vector Machines (SVM - Linear)
 - [ ] Support Vector Machines (SVM - RBF)
 - [ ] Quadratic Discriminant Analysis (QDA)
