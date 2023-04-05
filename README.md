@@ -26,5 +26,6 @@ scikit-learn classifier
 - [ ] Support Vector Machines (SVM - RBF)
 - [ ] Quadratic Discriminant Analysis (QDA)
 - [ ] AdaBoost
-- [ ] K-Nearest Neighbors (KNN)
-- [ ] Neural Networks (e.g. Multi-Layer Perceptron, Convolutional Neural Network)
+- [x] K-Nearest Neighbors (KNN)
+- [X] Neural Networks (Multi-Layer Perceptron)
+- [ ] Neural Networks Convolutional Neural Network
