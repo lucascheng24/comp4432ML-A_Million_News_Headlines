@@ -1,21 +1,21 @@
 # comp4432ML-A_Million_News_Headlines
-dir /gensim-data
-    /preprocess_data_set
-    /sampleOfWord2vec
-    /tryWord2vec
+dir /gensim-data<br>
+    /preprocess_data_set<br>
+    /sampleOfWord2vec<br>
+    /tryWord2vec<br>
+comp4432ML-A_Million_News_Headlines
+https://www.kaggle.com/datasets/therohk/million-headlines
 
 # COMP4434 Fake and real news dataset
 dir /Fake_and_real_news_dataset/*
-
-comp4432ML-A_Million_News_Headlines
-https://www.kaggle.com/datasets/therohk/million-headlines
+<br>
 
 ```tryWord2vec\try03.ipynb``` is convert the raw data to vectors by word2vec tool
 
 please download some pre-process data from https://drive.google.com/drive/folders/1jD38rLvVf4jDOoNGryhX5xWg1p_3vED6?usp=share_link
 
 
-For comp4432 - we use Fake and real news dataset
+For comp4434 - we use Fake and real news dataset
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 data-preprocess
