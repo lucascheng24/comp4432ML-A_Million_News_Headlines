@@ -1,5 +1,11 @@
 # comp4432ML-A_Million_News_Headlines
-# Fake and real news dataset
+dir /gensim-data
+    /preprocess_data_set
+    /sampleOfWord2vec
+    /tryWord2vec
+
+# COMP4434 Fake and real news dataset
+dir /Fake_and_real_news_dataset/*
 
 comp4432ML-A_Million_News_Headlines
 https://www.kaggle.com/datasets/therohk/million-headlines
