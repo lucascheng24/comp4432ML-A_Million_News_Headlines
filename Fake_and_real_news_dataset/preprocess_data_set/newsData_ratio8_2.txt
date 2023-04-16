@@ -1,0 +1,5 @@
+the file is nearly 140MB
+
+url: https://drive.google.com/drive/folders/1jD38rLvVf4jDOoNGryhX5xWg1p_3vED6?usp=share_link
+
+expected path: "Fake_and_real_news_dataset\preprocess_data_set\newsData_ratio8_2.csv"
