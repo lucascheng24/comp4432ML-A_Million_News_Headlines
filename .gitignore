@@ -3,3 +3,4 @@ preprocess_data_set/w2v.csv
 preprocess_data_set/w2v_vec250.csv
 Fake_and_real_news_dataset/preprocess_data_set/w2v_vec250.csv
 Fake_and_real_news_dataset/preprocess_data_set/newsData_ratio7_3.csv
+Fake_and_real_news_dataset/preprocess_data_set/newsData_ratio8_2.csv
